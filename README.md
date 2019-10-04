@@ -4,8 +4,8 @@ A simple console application for launching a program or file as administrator.
 This was made specifically to launch Visual Studio as admin from [Rainmeter](https://www.rainmeter.net) where launching shortcuts (even with admin rights set on the shortcut) would still run normally. I'm sure there are other use cases.
 
 compile yourself, or download directly: 
-- [runasadmin.exe (x64)](https://drive.google.com/uc?export=downlaod&id=1fkLI1HFbkYVxH6WcavQupFuKn1k6Fj3W) 
-- [runasadmin.exe (x86)](https://drive.google.com/uc?export=downlaod&id=1oVfc-U0gMHIlczOgLiRq671aoHXWNAz_)
+- [runasadmin.exe (x64)](http://bit.ly/runasadminx64) 
+- [runasadmin.exe (x86)](http://bit.ly/runasadminx86)
 
 
 
